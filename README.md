@@ -3,7 +3,7 @@ This dashboard uses the dataset from Pwc Switzerland Power Bi Job Simulation on 
 The purpose of this project is to support retention manager to identify the reason and potential solutional strategy for high customer churn rate. 
 
 # Description
-This project use EDA and data visualisation skills to find the key characteristic of churned customer and observe the area of services that TeleCompany can enhance to maintain customer relationship and to gain more profit. 
+This project uses EDA and data visualisation skills to find the key characteristic of churned customer and observe the area of services that TeleCompany can enhance to maintain customer relationship and to gain more profit. 
 
 Here is a short workflow that I did in this case:
 1. Data cleaning: import excel file into Power BI and ensure the data is consistent and ready to analyse.
