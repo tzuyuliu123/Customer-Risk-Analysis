@@ -15,7 +15,7 @@ Here is a short workflow that I did in this case:
 4. Noted some recommendations plan in the first page.
 
 # Key insights and reflection
-1. Number of Tech ticket is one of the big indicators, shoeing that Telecompany have some issue in fiber optic internet.
+1. The number of Tech ticket is one of the big indicators, showing that Telecompany has some issue in fiber optic internet.
    An icrease in number of tech support tickets indicates that customers frequently encounter technical issues retaled Internet, which negatively impacts their experience with TeleCompany, leading to a high churn rate.
 2. Short and frequnt paymant is one of characteristic of customer churning. With short period of paying phone bill, customer have more chance to consider changing Tele Serive Company with smaller opporunity cost to end service with TeleCompany. This shows that TeleCompamy is easy to replace by other Tele service firm.
 3. Recommanded plans:
@@ -23,4 +23,4 @@ Here is a short workflow that I did in this case:
    b. Set a longer Tele service plan, such as half-year plan or Yearly plan.
    c. Promote automatic payment method.      
 # Note
-Owing to the system of Power BI, it only allows the user with premium license or higher subscribed user to share the dashborad, So please download the excel file on the main page and have fun in learning Power BI!
+Owing to the system of Power BI, it only allows the user with premium license or higher subscribed users to share the dashborad, So please download the excel file on the main page and have fun in learning Power BI!
