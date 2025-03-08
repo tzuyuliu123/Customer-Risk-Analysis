@@ -23,4 +23,4 @@ Here is a short workflow that I did in this case:
    b. Set a longer Tele service plan, such as half-year plan or Yearly plan.
    c. Promote automatic payment method.      
 # Note
-Owing to the system of Power BI, it only allows the user with premium license or higher subscribed user to share the dashborad, So please download the excel file on the main page and have fun in leaning Power BI!
+Owing to the system of Power BI, it only allows the user with premium license or higher subscribed user to share the dashborad, So please download the excel file on the main page and have fun in learning Power BI!
