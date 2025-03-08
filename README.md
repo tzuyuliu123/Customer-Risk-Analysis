@@ -1,6 +1,6 @@
 # Customer Risk Analysis 
 This dashboard uses the dataset from Pwc Switzerland Power Bi Job Simulation on Forage (Task 3) [Link](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg). 
-The purpose of this project is to support retention manager to identify the reason and potential solutional strategy for high customer churn rate. 
+The purpose of this project is to support retention manager to identify the reason and potential solution strategy for high customer churn rate. 
 
 # Description
 This project uses EDA and data visualisation skills to find the key characteristic of churned customer and observe the area of services that TeleCompany can enhance to maintain customer relationship and to gain more profit. 
